@@ -1,5 +1,6 @@
 # Project Management Dashboard
 
+**Project URL:** ([Project Management App](https://main.d3nicjpa68yqc7.amplifyapp.com/))
 
 
 ## Technology Stack
